@@ -9,4 +9,4 @@ A - Move Left
 S - Move Backward
 D - Move Right
 
-Folder 2 contains the beginning of a level structure however with inputs not currently working.
+Repo 2 contains the beginning of a level structure however with inputs not currently working.
